@@ -27,7 +27,7 @@ do
     
     second=$(echo "$(date +'%S') / 60" | bc -l)
     minute=$(echo "$(date +'%M') / 60 + $second / 60" | bc -l)
-    hour=$(echo "$(date +'%l') / 12 + $minute / 60" | bc -l)
+    hour=$(echo "$(date +'%l') / 12 + $minute / 12" | bc -l)
     pi=$(echo "4*a(1)" | bc -l)
 
     units=($hour $minute $second)
