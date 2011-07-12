@@ -1,0 +1,29 @@
+ _______________
+/\               \
+\_| A Bash Clock |
+  |   ___________|_
+   \_/_____________/
+
+
+Hours (H), Minutes(M) and Seconds(S).
+
+Here's a "screenshot" at 10:48:28
+
+
+     HHHHHHH
+            HHHHHH
+  MMMMMMMMMM      HHHHHH
+            MMMMMMMMMMM HHHHHH
+                       MMMMMMMMMMMHH
+                                  MMMMM
+                                        SS
+                                          S
+                                           SS
+                                             SS
+                                               S
+                                                SS
+                                                  SS
+                                                    S
+                                                     S
+                                                      S
+
